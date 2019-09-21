@@ -3,6 +3,12 @@
 ## Introduction
 This script is used to convert [OpenGApps](https://opengapps.org/) flashable zip to a [Magisk](https://github.com/topjohnwu/Magisk) module.
 
+## Requires
+* zip
+* unzip
+* lzip
+* tar
+
 ### Usage
 ```bash
   usage : ./convert-opengappss-to-magisk.sh <opengapps flashable zip file> <output directory>
