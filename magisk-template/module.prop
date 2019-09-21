@@ -1,0 +1,7 @@
+id=magisk-gapps
+name=Open GApps For Magisk
+version=1
+versionCode=20190920
+author=Bave Lee
+description=https://github.com/bavelee/OpenGapps-For-Magisk-Converter
+minMagisk=1600
