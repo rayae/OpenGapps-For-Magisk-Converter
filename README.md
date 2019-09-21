@@ -42,7 +42,7 @@ You can modify it to opt which you need.
 * backuprestore-all 
 * googlebackuptransport-all
 
-*This list can fix some devices can boot.*
+*This list can fix some devices cannot boot.*
 
 **Full Optional Blacklist:**
 * backuprestore-all
