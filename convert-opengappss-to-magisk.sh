@@ -79,7 +79,7 @@ rm -rf "$output"
 mkdir "$output"
 
 
-for dir in `find "$tmp/gapps/Core" "$tmp/gapps/GApps" -depth 1 -type d`
+for dir in `find "$tmp/gapps/Core" "$tmp/gapps/GApps" -maxdepth 1 -type d`
 do
 	bn=$(basename "$dir")
 	if [[ "${blacklist[@]}" =~ "$bn" ]];then
