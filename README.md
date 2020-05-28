@@ -3,7 +3,7 @@
 ## Introduction
 This script is used to convert [OpenGApps](https://opengapps.org/) flashable zip to a [Magisk](https://github.com/topjohnwu/Magisk) module.
 
-## Requires
+## Requirements
 * zip
 * unzip
 * lzip
